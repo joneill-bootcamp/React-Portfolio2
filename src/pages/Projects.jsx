@@ -20,7 +20,7 @@ export default function Projects() {
             </a>
             <img
               alt="Project1"
-              src="./img/project1.png"
+              src="/img/project1.png"
               className="imagefloat"
             ></img>
           </div>
@@ -46,7 +46,7 @@ export default function Projects() {
             </a>
             <img
               alt="Project2"
-              src="./img/project2.png"
+              src="/img/project2.png"
               className="imagefloat"
             ></img>
           </div>
@@ -66,7 +66,7 @@ export default function Projects() {
             </a>
             <img
               alt="Weather"
-              src="./img/weather.png"
+              src="/img/weather.png"
               className="imagefloat"
             ></img>
           </div>
@@ -92,7 +92,7 @@ export default function Projects() {
             </a>
             <img
               alt="Budget"
-              src="./img/budget.png"
+              src="/img/budget.png"
               className="imagefloat"
             ></img>
           </div>
