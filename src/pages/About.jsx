@@ -7,10 +7,18 @@ export default function About() {
       <div className="subheading">
         Melbourne, Australia. + 61 403868689·{" "}
         <a href="mailto:joneill@activedata.tech" className="white-text">
-          joneill @activedata.tech{" "}
+          joneill @activedata.tech
         </a>
-        <img alt="John" src="img/mypic.png" className="imagefloatt"></img>
+        <img alt="John" src="/img/john.png"></img>
+        <hr></hr>
+        <a
+          href="https://www.w3schools.comhttps://www.linkedin.com/in/joneill-progress/"
+          className="red-text"
+        >
+          Please visit my LinkedIn Profile
+        </a>
         <div className="bodytext">
+          <br></br>
           An innovative, outcome focused and technology leader with experience
           in partnering with business leadership teams to deliver organizations'
           strategic objectives.
